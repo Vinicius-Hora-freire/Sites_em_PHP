@@ -1,2 +1,4 @@
 # Video_Youtube_em_PHP
- Site criado na época da ETEC, feito totalmente em PHP. A fucionalidade do mesmo é colocar uma URL no campo INPUT e  puxar o video desejado do youtube para a plataforma
+ 
+ *O site acima foi inteiramente desenvolvido em PHP por mim, durante meu tempo na ETEC de Itaquaquecetuba. Sua funcionalidade principal é permitir que o usuário insira uma URL no campo de entrada, puxando o vídeo desejado diretamente da plataforma YouTube.*
+
