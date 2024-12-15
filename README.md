@@ -12,7 +12,7 @@
 # Antecessores ou Sucessores
  *O conteúdo na pasta acima (antecessores-sucessores) foi inteiramente desenvolvido por mim em PHP, durante meu tempo na ETEC de Itaquaquecetuba. A principal funcionalidade é permitir que o usuário insira um número no campo INPUT e escolha se deseja ver os sucessores ou os antecessores do número escolhido.*
 
-# Impar ou Par
+# Impar ou Par  
  *O conteúdo na pasta acima (par-impar) foi inteiramente desenvolvido por mim em PHP, durante meu tempo na ETEC de Itaquaquecetuba. A principal funcionalidade é permitir que o usuário insira um número no campo INPUT e o sistema vai identificar se o número é ímpar ou par. Para uma pequena brincadeira, se o número digitado for par, aparece a mensagem "Avança, pois você digitou um valor par"; se for ímpar, "Segura aí, pois você digitou um valor ímpar".*
 
 
